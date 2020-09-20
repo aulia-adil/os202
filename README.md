@@ -1,7 +1,7 @@
 # Hello!
 
 ## My name is Adil and this is my OS class repository :-D
-## If you need my help, don't be afraid to asked me :-)
+## If you need my help, don't be afraid to ask me :-)
 
 ## [My Log](TXT/mylog.txt)
 
