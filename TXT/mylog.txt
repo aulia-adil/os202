@@ -43,3 +43,12 @@ ZCZC W00 10 L04 Github pages related
 ZCZC W00 150 L02 Zoom related
 ZCZC W00 30 L01 SCELE related
 ZCZC W00 300 L06 Reading Refereces/Books/Documents
+# [Week01]
+ZCZC W01 25 L03 Github related
+ZCZC W01 5 L04 Github pages related
+ZCZC W01 150 L02 Zoom related
+ZCZC W01 10 L01 SCELE related
+ZCZC W01 480 L10 Assignment
+ZCZC W01 480 L12 Assignment
+ZCZC W01 60 L05 GSGS related
+ZCZC W01 10 L00 General Log
