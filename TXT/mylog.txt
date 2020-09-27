@@ -49,6 +49,13 @@ ZCZC W01 5 L04 Github pages related
 ZCZC W01 150 L02 Zoom related
 ZCZC W01 10 L01 SCELE related
 ZCZC W01 480 L10 Assignment
-ZCZC W01 480 L12 Assignment
+ZCZC W01 30 L11 Assignment
+ZCZC W01 40 L12 Assignment
+ZCZC W01 30 L13 Assignment
+ZCZC W01 30 L14 Assignment
+ZCZC W01 50 L15 Assignment
+ZCZC W01 80 L16 Assignment
+ZCZC W01 120 L17 Assignment
+ZCZC W01 100 L18 Assignment
 ZCZC W01 60 L05 GSGS related
 ZCZC W01 10 L00 General Log
