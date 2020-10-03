@@ -1,5 +1,5 @@
-[WEB](https://cbkadal.github.io/os202/)
-[GitHub](https://github.com/cbkadal/os202/)
+[WEB](https://aulia-adil.github.io/os202/)
+[GitHub](https://github.com/aulia-adil/os202/)
 [My Log](TXT/mylog.txt)
 [My Public Key](TXT/mypubkey.txt)
 [My Script](TXT/myscript.sh)
