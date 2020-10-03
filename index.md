@@ -1,3 +1,12 @@
+[WEB](https://cbkadal.github.io/os202/)
+[GitHub](https://github.com/cbkadal/os202/)
+[My Log](TXT/mylog.txt)
+[My Public Key](TXT/mypubkey.txt)
+[My Script](TXT/myscript.sh)
+[My Top Ten Rank List](TXT/myrank.txt)
+[SHA256SUM](TXT/SHA256SUM)
+[SHA256SUM.asc](TXT/SHA256SUM.asc)
+
 # Hello!
 
 ## My name is Adil and this is my OS class repository :-D
