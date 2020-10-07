@@ -1,9 +1,4 @@
-#!/bin/bash
-# Muhammad Aulia Adil
-# Mon Sep 28 22:03:27 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
-
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
@@ -21,5 +16,3 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
-# Sabtu Oct 3 14:31:00 WIB 2020
