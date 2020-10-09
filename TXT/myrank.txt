@@ -5,3 +5,6 @@ ZCZC W00 bilazahra81
 ZCZC W01 azhar81
 ZCZC W01 baguspr
 ZCZC W01 althof3
+ZCZC W02 althof3
+ZCZC W02 baguspr
+ZCZC W02 bonarws
