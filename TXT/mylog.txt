@@ -93,3 +93,20 @@ ZCZC W03 15 L18 Assignment #8
 ZCZC W03 10 L19 Assignment #9
 ZCZC W03 80 L05 GSGS related
 ZCZC W03 20 L00 General Log
+# [Week04]
+ZCZC W04 15 L03 Github related
+ZCZC W04 5 L04 Github pages related
+ZCZC W04 120 L02 Zoom related
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 240 L10 Assignment (General)
+ZCZC W04 30 L11 Assignment #1
+ZCZC W04 30 L12 Assignment #2
+ZCZC W04 40 L13 Assignment #3
+ZCZC W04 20 L14 Assignment #4
+ZCZC W04 60 L15 Assignment #5
+ZCZC W04 30 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 10 L18 Assignment #8
+ZCZC W04 10 L19 Assignment #9
+ZCZC W04 90 L05 GSGS related
+ZCZC W04 20 L00 General Log
