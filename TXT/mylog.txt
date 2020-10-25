@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # REV03 Thu Sep 24 11:51:01 WIB 2020
 # REV02 Tue Sep 22 21:16:52 WIB 2020
 # REV01 Sat Sep 12 00:52:34 WIB 2020
@@ -127,3 +128,5 @@ ZCZC W05 2 L18 Assignment #8
 ZCZC W05 4 L19 Assignment #9
 ZCZC W05 90 L05 GSGS related
 ZCZC W05 20 L00 General Log
+=======
+>>>>>>> f58caf4adeab3fa34afa6fca52857c92f8fad4aa
