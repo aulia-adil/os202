@@ -142,5 +142,7 @@ ZCZC W06 150 L16 Assignment #6
 ZCZC W06 10 L17 Assignment #7
 ZCZC W06 2 L18 Assignment #8
 ZCZC W06 20 L19 Assignment #9
+ZCZC W06 20 L20 Assignment #10
+ZCZC W06 10 L21 Assignment #11
 ZCZC W06 90 L05 GSGS related
 ZCZC W06 20 L00 General Log
