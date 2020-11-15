@@ -17,6 +17,6 @@ ZCZC W04 bilazahra81
 ZCZC W05 althof3
 ZCZC W05 alifyandra
 ZCZC W05 baguspr
-ZCZC W05 baguspr
-ZCZC W05 althof3
-ZCZC W05 aliasadillah
+ZCZC W06 baguspr
+ZCZC W06 althof3
+ZCZC W06 aliasadillah
