@@ -20,3 +20,6 @@ ZCZC W05 baguspr
 ZCZC W06 baguspr
 ZCZC W06 althof3
 ZCZC W06 aliasadillah
+ZCZC W07 althof3
+ZCZC W07 baguspr
+ZCZC W07 alifyandra
