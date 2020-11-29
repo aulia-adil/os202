@@ -23,3 +23,6 @@ ZCZC W06 aliasadillah
 ZCZC W07 althof3
 ZCZC W07 baguspr
 ZCZC W07 alifyandra
+ZCZC W08 baguspr
+ZCZC W08 althof3
+ZCZC W08 azhar81
